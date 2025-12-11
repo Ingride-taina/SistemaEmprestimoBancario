@@ -10,7 +10,7 @@ O sistema segue a seguinte lógica:
 3. Validação sequencial de cada critério estabelecido.  
 4. Emissão da decisão final de aprovação ou recusa com base nas regras definidas.
 
-##Essa estrutura organiza o processo, facilita futuras expansões e mantém a tomada de decisão precisa.
+-Essa estrutura organiza o processo, facilita futuras expansões e mantém a tomada de decisão precisa.
 
 # Aprendizados Técnicos
 
